@@ -8,4 +8,6 @@ I'm Gbenga, currently finishing up a Software Engineering Bootcamp at Flatiron S
 
 ## Projects
 
+My latest project is live here: https://get-it-otc.netlify.app/, have a look! If you don't want to make an account, you can use username: guest1, password: guest1
+
 My favourite project I've worked on so far has been Sobremesa, a platform for learning basic Spanish vocabulary using minigames. You can have a look here: https://github.com/gbenga/sobremesa
