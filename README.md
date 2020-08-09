@@ -3,11 +3,18 @@
 <!--
 **gbenga/gbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+I'm Gbenga, a Software Engineer based in London. I'm currently open to opportunities based in London, or remote.
 
-I'm Gbenga, I am a Software Engineer, looking for opportunities. You can read about my journey so far here: https://medium.com/series/am-i-software-engineer-yet-5c6a51aa9833
+To find out more about my journey into Software Engineering, you can read my series on Medium: [Am I a Software Engineer yet?](https://medium.com/series/am-i-software-engineer-yet-5c6a51aa9833). I've covered topics such as, why *anonymous functions* are useful, *syntactic sugar* and dealing with *asynchronous operations*. 
 
 ## Projects
 
-My latest project is live here: https://get-it-otc.netlify.app/, have a look! If you don't want to make an account, you can use username: guest1, password: guest1
+- Get It OTC is a platform providing immuno-compromised individuals with access to medication at home.
+This project is live here: [get-it-otc.app](https://get-it-otc.netlify.app/), have a look!
+- Sobremesa allows you to practice basic Spanish vocabulary using different minigames.
 
-My favourite project I've worked on so far has been Sobremesa, a platform for learning basic Spanish vocabulary using minigames. You can have a look here: https://github.com/gbenga/sobremesa
+    You can have a look at the source code here: [github.com/gbenga/sobremesa](https://github.com/gbenga/sobremesa)
+
+## Connect with me
+
+If you would like to speak with me, **send me a message on Linkedin**, [here](https://www.linkedin.com/in/gojoaromokudu/)
