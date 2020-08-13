@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome 🤝🏾
 
 <!--
 **gbenga/gbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +10,9 @@ To find out more about my journey into Software Engineering, you can read my ser
 ## Projects
 
 - Get It OTC is a platform providing immuno-compromised individuals with access to medication at home.
-This project is live here: [get-it-otc.app](https://get-it-otc.netlify.app/), have a look! The source code is available in my pinned repositories below.
+This project is live here: [Get It OTC](https://get-it-otc.netlify.app/), have a look! The source code is available in my pinned repositories below.
 - Sobremesa allows you to practice basic Spanish vocabulary using different minigames.
-You can view the source code here: [Sobremesa](https://github.com/gbenga/sobremesa)
+This project is live here: [Sobremesa](https://sobremesa.netlify.app/)
 
 ## Connect with me
 
