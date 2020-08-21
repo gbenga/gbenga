@@ -9,7 +9,7 @@ To find out more about my journey into Software Engineering, you can read my ser
 
 ## Projects
 
-- Get It OTC is a platform providing immuno-compromised individuals with access to medication at home.
+- Get It OTC provides immuno-compromised individuals with access to medication at home.
 This project is live here: [Get It OTC](https://get-it-otc.netlify.app/), have a look! The source code is available in my pinned repositories below.
 - Sobremesa allows you to practice basic Spanish vocabulary using different minigames.
 This project is live here: [Sobremesa](https://sobremesa.netlify.app/)
