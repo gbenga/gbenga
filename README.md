@@ -11,8 +11,8 @@ To find out more about my journey into Software Engineering, you can read my ser
 
 - Get It OTC provides immuno-compromised individuals with access to medication at home.
 This project is live here: [Get It OTC](https://get-it-otc.netlify.app/), have a look! The source code is available in my pinned repositories below.
-- Stream Nature allows everyone to enjoy the wonders of nature, without needing to leave the house.
-This project is live here: [Stream Nature](https://stream-nature.netlify.app/), have a look! The source code is available in my pinned repositories below.
+- Stream Nature allows everyone to enjoy the wonders of nature, from home.
+This project is live here: [Stream Nature](https://stream-nature.netlify.app/) The source code is available in my pinned repositories below.
 - Sobremesa allows you to practice basic Spanish vocabulary using different minigames.
 This project is live here: [Sobremesa](https://sobremesa.netlify.app/). The source code is available in my pinned repositories below.
 
