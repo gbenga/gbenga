@@ -18,4 +18,4 @@ This project is live here: [Sobremesa](https://sobremesa.netlify.app/). The sour
 
 ## Connect with me
 
-If you would like to speak with me, **send me a message on Linkedin**, [here](https://www.linkedin.com/in/gojoaromokudu/)
+If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/gojoaromokudu/)**, or **[follow me on Twitter](https://twitter.com/writtenbygbenga)**
