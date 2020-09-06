@@ -6,6 +6,7 @@
 I'm Gbenga, a Software Engineer based in London. I'm currently open to Software Engineering opportunities in London, or remote.
 
 To find out more about my journey into Software Engineering, you can read my series on Medium: [Am I a Software Engineer yet?](https://medium.com/series/am-i-software-engineer-yet-5c6a51aa9833). I've covered topics such as, why *anonymous functions* are useful, *syntactic sugar* and dealing with *asynchronous operations*. 
+I also write on dev.to, so you can [follow me](https://dev.to/gbenga) there too
 
 ## Projects
 
