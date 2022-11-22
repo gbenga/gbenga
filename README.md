@@ -10,4 +10,4 @@ I also write on dev.to, where I have discussed *Netflix's method for personalisi
 
 ## Connect with me
 
-If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/gojoaromokudu/)**, or **[follow me on Twitter](https://twitter.com/gbengaishere)**
+If you would like to speak with me, **[send me a message on Linkedin](https://www.linkedin.com/in/gojoaromokudu/)**.
