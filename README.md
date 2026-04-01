@@ -3,7 +3,7 @@
 <!--
 **gbenga/gbenga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Gbenga, a full stack Software Engineer currently based in Chicago. I'm currently open to full-time positions from March 2026 onwards (open to relocation).
+I'm Gbenga, a full stack Software Engineer currently based in Chicago. I'm currently open to full-time positions (open to relocation).
 
 
 ## Connect with me
